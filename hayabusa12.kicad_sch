@@ -2547,7 +2547,7 @@
     (property "Value" "OLED" (id 1) (at 261.62 62.865 0)
       (effects (font (size 1.1938 1.1938)) (justify left))
     )
-    (property "Footprint" "kbd:OLED" (id 2) (at 245.11 59.69 0)
+    (property "Footprint" "kbd:OLED_v2" (id 2) (at 245.11 59.69 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 245.11 59.69 0)
@@ -2852,7 +2852,7 @@
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
     )
     (path "/b9768c68-15af-41b6-8061-376d6c0c72bb"
-      (reference "OL1") (unit 1) (value "OLED") (footprint "kbd:OLED")
+      (reference "OL1") (unit 1) (value "OLED") (footprint "kbd:OLED_v2")
     )
     (path "/c90e1c66-f02f-4505-9b26-a7ecf05f1ce3"
       (reference "R1") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric")
