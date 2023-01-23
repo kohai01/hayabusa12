@@ -2010,7 +2010,7 @@
     (uuid 0694356f-31fe-47cd-a767-adb061c8e560)
     (property "Reference" "SW1" (id 0) (at 54.61 58.801 0))
     (property "Value" "SW_Push" (id 1) (at 54.61 61.1124 0))
-    (property "Footprint" "random-keyboard-parts:SKQG-1155865" (id 2) (at 54.61 60.96 0)
+    (property "Footprint" "marbastlib-various:SW_SPST_SKQG_WithStem" (id 2) (at 54.61 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 54.61 60.96 0)
@@ -3195,7 +3195,7 @@
       (reference "R6") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/0694356f-31fe-47cd-a767-adb061c8e560"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "random-keyboard-parts:SKQG-1155865")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "marbastlib-various:SW_SPST_SKQG_WithStem")
     )
     (path "/9a2c11a4-6958-4c2e-b9fc-b380a6e2ec2c"
       (reference "SW2") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
